@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+<ul>
+  <li> my dog</li>
+  <li> playing csgo</li>
+  <li> eating food</li>
+</ul>
